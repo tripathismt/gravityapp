@@ -1,0 +1,11 @@
+after downloading the code from the git hub you have to install NPM package first 
+to intall open terminal and give command
+-> npm install
+
+after that you need to install the google map api 
+for that you have to give the following command in the terminal
+-> npm i @react-google-maps/api
+
+for working the app properly you have to give a GOOGLE MAP API KEY 
+in that i have used developer api that why we can not get the functioning to make it functional you hava to use you own API KEY (billed API KEY)
+so For proper functioning use you Own API key
